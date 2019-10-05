@@ -1,0 +1,41 @@
+body {
+  background-color: #232323;
+  margin: 0;
+  font-family: "Montserrat";
+}
+
+#container {
+  width: 600px;
+  margin: 0 auto;
+}
+.square {
+  margin: 1.66%;
+  width: 30%;
+  background-color: "#232323";
+  padding-bottom: 30%;
+  float: left;
+}
+
+#bar {
+  height: 30px;
+  background: white;
+  text-align: center;
+}
+
+h1 {
+  font-weight: normal;
+  text-align: center;
+  background-color: steelblue;
+  color: white;
+  margin: 0;
+  text-transform: uppercase;
+  padding: 10px 0;
+}
+
+#display {
+  font-size: 200%;
+}
+
+.selected {
+  background: blue;
+}

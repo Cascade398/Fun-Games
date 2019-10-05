@@ -1,0 +1,13 @@
+#container {
+  width: 600px;
+  margin: 0 auto;
+  height: 610px;
+}
+
+.square {
+  margin: 0.25%;
+  width: 12%;
+  background-color: green;
+  padding-bottom: 12%;
+  float: left;
+}
