@@ -7,7 +7,10 @@
 .square {
   margin: 0.25%;
   width: 12%;
+  height: 12%;
+  text-align: center;
+  font-size: 60px;
+  color: blue;
   background-color: green;
-  padding-bottom: 12%;
   float: left;
 }
