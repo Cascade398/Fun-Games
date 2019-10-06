@@ -3,7 +3,7 @@ Just simple fun Javascript games. I made it because I was bored and they always 
 
 The current games in this repository:
 1. Breakout
-2. A simple HTML Color Game.
+2. A simple RGB Color Game.
 3. Minesweeper.
 
 
