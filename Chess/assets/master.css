@@ -1,0 +1,29 @@
+#container {
+  width: 650px;
+  margin: 0 auto;
+  height: 650px;
+  border-style: solid;
+  border-color: black;
+  border-width: 3px;
+}
+
+.square {
+  margin: 0;
+  width: 12.5%;
+  height: 12.5%;
+  float: left;
+  text-align: center;
+}
+
+.fas {
+  margin: 10px;
+  font-size: 60px;
+}
+
+.white {
+  color: white;
+}
+
+.black {
+  color: black;
+}
