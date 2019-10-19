@@ -5,5 +5,6 @@ The current games in this repository:
 1. Breakout
 2. A simple RGB Color Game.
 3. Minesweeper.
+4. Snake
 
 
