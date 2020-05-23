@@ -1,0 +1,29 @@
+body{
+    margin: 0;
+    background-color: #232323;
+}
+
+#container{
+    width: 650px;
+    height: 650px;
+    margin: 40px auto 0 auto;
+}
+
+.fas{
+    margin: 22px;
+    font-size: 150px;
+}
+
+.far{
+    margin: 31px;
+    font-size: 130px;
+}
+
+.square{
+    width: 31%;
+    height: 31%;
+    float: left;
+    margin: 1%;
+    text-align: center;
+    background-color: whitesmoke;
+}
